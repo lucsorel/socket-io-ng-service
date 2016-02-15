@@ -12,7 +12,7 @@
             // connects with the server and resolves the promise
             var _socket = io.connect();
             _socket.on('connect', function () {
-                deferredConnectedSocket.resolve(_socket);API
+                deferredConnectedSocket.resolve(_socket);
             });
 
             /** emits an event to the server with a facultative callback */
