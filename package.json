@@ -1,0 +1,25 @@
+{
+  "name": "socket-io-ng-service",
+  "version": "1.0.0",
+  "description": "A Socket.io wrapper, promise-oriented, for AngularJS 1.x applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucsorel/socket-io-ng-service.git"
+  },
+  "keywords": [
+    "socket-io",
+    "angularjs",
+    "wrapper",
+    "async"
+  ],
+  "author": "Luc Sorel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucsorel/socket-io-ng-service/issues"
+  },
+  "homepage": "https://github.com/lucsorel/socket-io-ng-service#readme"
+}
